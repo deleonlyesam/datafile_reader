@@ -1,0 +1,9 @@
+	COMPANY, NAME, POSITION
+	Microsoft, Steve, CEO
+	Apple, Tim, CEO
+	Apple, Jony, Designer
+	Incuventure, John, DBA 
+	Microsoft, Mike, Developer 
+	Microsoft, Don, Division 
+	Head Incuventure, Marvin, Developer 
+	Incuventure, Brian Developer

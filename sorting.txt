@@ -1,0 +1,3 @@
+group by POSITION 
+filter by POSITION=CEO 
+filter by POSITION=Developer
